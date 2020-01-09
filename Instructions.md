@@ -1,7 +1,7 @@
 # Add your name to the Onboarding Guest Book
 
 ## 1. Clone onboarding repository to your local machine
-`$ git clone https://github.com/jonasrk/git-lunch-learn-jan08
+`$ git clone https://github.com/jonasrk/git-lunch-learn-jan08`
 
 ## 2. Edit the README file and add your name to the guest book 
 ```
@@ -20,7 +20,7 @@ $ git add -p
 ## 4. Commit the staged modifications
 
 **Best Practice**: Write clear commit message. First line should be short, other lines, if necessary, can be as large as needed.
-```$ git commit -m "Adds leocasarsa to Onboarding Guest Book."```
+```$ git commit -m "Adds jonaskemper to Onboarding Guest Book."```
 
 ## 5. Publish your signature on our shared remote repository 
 
