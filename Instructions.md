@@ -1,11 +1,11 @@
 # Add your name to the Onboarding Guest Book
 
 ## 1. Clone onboarding repository to your local machine
-`$ git clone https://github.com/leocasarsa/CCW-Madrid-Git.git`
+`$ git clone https://github.com/jonasrk/git-lunch-learn-jan08
 
 ## 2. Edit the README file and add your name to the guest book 
 ```
-$ cd onboarding 
+$ cd git-lunch-learn-jan08 
 $ gedit README.md
 ```
 `gedit` is just a text editor. You can use any of your choice. Remember to save your changes.
